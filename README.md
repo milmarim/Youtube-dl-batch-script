@@ -25,3 +25,5 @@ Audio is downloaded as mp3 with thumbnails enabled also.
 The script keeps track of downloaded videos, so if you want to periodically save a playlist, the script only downloads videos that are newly added to the playlist.
 
 AtomicParsley is responsible for thumbnails, and FFmpeg for conversions of video and audio codecs. This batch file merely configures the ytdl .exe application in a quick and easy fashion. I hope you like it!
+
+In the future I might add a configurator that can change the download location or download settings.
