@@ -1,8 +1,10 @@
 # Youtube-dl-batch-script
 Quick ytdl batch script with video and audio
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-To start the installation, copy the "youtube-dl" folder from the zip to your desktop, then click the file "Open to Install YoutubeDL" and type in your username as instructed
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+To start the installation, copy the "youtube-dl" folder from the zip to your desktop, 
+then click the file "Open to Install YoutubeDL" and type in your windows user as instructed
+
 
 This YoutubeDL scripts works via a windows batch file called "youtube_dl", that is placed on your desktop on installation.
 
