@@ -1,5 +1,5 @@
 # Youtube-dl-batch-script
-Quick ytdl batch script with video and audio options
+Quick ytdl batch script with video and audio options for when you just want the video or audio downloaded fast.
 
 Before starting the installation with the provided rudimentary installer, you need to add the following FFmpeg files to your "youtube-dl" folder since they are above the GitHub file size limit:
 -ffmpeg
