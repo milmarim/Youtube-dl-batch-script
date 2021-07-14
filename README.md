@@ -31,6 +31,8 @@ Downloaded video quality is set to highest possible, Mp4 + M4a, with thumbnails 
 
 Audio is downloaded as mp3 with thumbnails enabled also.
 
+Downloads are also saved by their video titles.
+
 Used youtube dl scrpits, note that output location's username is a placeholder, and is changed on installation.
 
 youtube-dl --extract-audio -i --audio-format mp3 --download-archive downloaded.txt --add-metadata --xattrs --embed-thumbnail --yes-playlist --output C:\Users\Markus\Music\Downloads\%%(title)s.%%(ext)s %urlyt%
