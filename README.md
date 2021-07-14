@@ -13,12 +13,11 @@ Before starting the installation with the provided rudimentary installer, you ne
 Link to ffmpeg: (choose Windows .exe version)
 https://ffmpeg.org/download.html
 
-What downloaded folder moved to desktop should look like:
+What should be included in the YTDL folder:
 ![image](https://user-images.githubusercontent.com/87437624/125656120-7e8c1555-ffdb-4276-b37c-4a5961149e6b.png)
 
 
-To start the installation, copy the "youtube-dl" folder from the zip to your desktop, 
-then click the file "Open to Install YoutubeDL" and type in your windows user as instructed (needed to configure download and installation paths)
+To start the installation, run the file "Youtube-dl Batch Installer" and type in your windows user as instructed (needed to configure download and installation paths)
 ![image](https://user-images.githubusercontent.com/87437624/125660113-357368e2-2f24-4f49-ae9d-9fd883a8558c.png)
 
 The installer moves the .exe files to C:\Users\user\Documents\youtube-dl, and copies the main batch file "youtube_dl.bat" to your desktop along with adding your username to it.
