@@ -52,3 +52,4 @@ The script also gives off a Windows notification when the download has finished 
 
 AtomicParsley is responsible for thumbnails, and FFmpeg for conversions of video and audio codecs. This batch file merely configures the ytdl .exe application in a quick and easy fashion. I hope you like it!
 ![image](https://user-images.githubusercontent.com/87437624/125656729-8a653925-fddf-4a23-9434-77a48449c564.png)
+As with all batch files, you can configure the colors, font and windows size to your liking by creating a link to it.
