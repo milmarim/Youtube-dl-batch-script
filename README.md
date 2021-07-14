@@ -18,7 +18,9 @@ What downloaded folder moved to desktop should look like:
 
 
 To start the installation, copy the "youtube-dl" folder from the zip to your desktop, 
-then click the file "Open to Install YoutubeDL" and type in your windows user as instructed
+then click the file "Open to Install YoutubeDL" and type in your windows user as instructed (needed to configure download and installation paths)
+![image](https://user-images.githubusercontent.com/87437624/125660113-357368e2-2f24-4f49-ae9d-9fd883a8558c.png)
+
 
 The installer moves the .exe files to C:\Users\user\Documents\youtube-dl, and copies the batch file to your desktop.
 
