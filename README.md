@@ -12,6 +12,11 @@ https://ffmpeg.org/download.html
 Check that your desktop folder looks like this:
 ![image](https://user-images.githubusercontent.com/87437624/125656120-7e8c1555-ffdb-4276-b37c-4a5961149e6b.png)
 
+
+=========If you want to just try it fast, here's a 80 MB MEGA download with everything included:===========
+
+https://mega.nz/folder/BKhkCRCQ#XGXLuJjFftxLLoapetYovQ
+
 To start the installation, copy the "youtube-dl" folder from the zip to your desktop, 
 then click the file "Open to Install YoutubeDL" and type in your windows user as instructed
 
