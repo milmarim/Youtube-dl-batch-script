@@ -40,3 +40,4 @@ youtube-dl -i -f bestvideo[ext=mp4]+bestaudio[ext=m4a] --yes-playlist --download
 The script keeps track of downloaded videos using the ytdl provided feature (--download-archive downloaded.txt), so if you want to periodically save a playlist, the script only downloads videos that are newly added to the playlist.
 
 AtomicParsley is responsible for thumbnails, and FFmpeg for conversions of video and audio codecs. This batch file merely configures the ytdl .exe application in a quick and easy fashion. I hope you like it!
+![image](https://user-images.githubusercontent.com/87437624/125656729-8a653925-fddf-4a23-9434-77a48449c564.png)
