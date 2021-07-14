@@ -1,10 +1,13 @@
 # Youtube-dl-batch-script
 Quick ytdl batch script with video and audio
 
+Can't upload the ffmpeg, ffplay and ffprobe files that the script needs in the files folder, you need to download those separately
 
 To start the installation, copy the "youtube-dl" folder from the zip to your desktop, 
 then click the file "Open to Install YoutubeDL" and type in your windows user as instructed
 
+To install you need these files in the youtube-dl folder
+![image](https://user-images.githubusercontent.com/87437624/125653480-61d3e28e-a05c-4561-922a-b4187578d93f.png)
 
 This YoutubeDL scripts works via a windows batch file called "youtube_dl", that is placed on your desktop on installation.
 
