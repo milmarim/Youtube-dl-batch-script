@@ -3,12 +3,14 @@ Quick ytdl batch script with video and audio options for when you just want the 
 
 
 Before starting the installation with the provided rudimentary installer, you need to add the following FFmpeg files to your "youtube-dl" folder since they are above the GitHub file size limit.
-(Or alternatively use this link to download a 80 MB .zip file with everything inculded: https://mega.nz/folder/BKhkCRCQ#XGXLuJjFftxLLoapetYovQ)
+
 -ffmpeg
 -ffplay
 -ffprobe
 
-Heres a link for installation of those (choose Windows .exe version)
+(Or alternatively use this link to download a 80 MB .zip file with everything inculded: https://mega.nz/folder/BKhkCRCQ#XGXLuJjFftxLLoapetYovQ)
+
+Link to ffmpeg: (choose Windows .exe version)
 https://ffmpeg.org/download.html
 
 Check that your desktop folder looks like this:
