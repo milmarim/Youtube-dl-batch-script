@@ -13,7 +13,7 @@ Before starting the installation with the provided rudimentary installer, you ne
 Link to ffmpeg: (choose Windows .exe version)
 https://ffmpeg.org/download.html
 
-Check that your desktop folder looks like this:
+What downloaded folder moved to desktop should look like:
 ![image](https://user-images.githubusercontent.com/87437624/125656120-7e8c1555-ffdb-4276-b37c-4a5961149e6b.png)
 
 
